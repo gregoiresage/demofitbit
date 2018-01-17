@@ -1,0 +1,18 @@
+{
+  "fitbit": {
+    "appUUID": "bb6a7aee-3f9d-4c34-825b-3e87c2428765",
+    "appType": "clockface",
+    "appDisplayName": "Demo",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Demo"
+      }
+    }
+  }
+}
